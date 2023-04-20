@@ -12,4 +12,4 @@ Sina Masnadi -> sina@knights.ucf.edu
 
 Yohan Hmaiti -> yohanhmaiti@knights.ucf.edu 
 
-Joseph LaViola -> jjl@cs.ucf.edu 
+Joseph LaViola (Advisor)-> jjl@cs.ucf.edu 
