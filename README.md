@@ -13,3 +13,11 @@ Sina Masnadi -> sina@knights.ucf.edu
 Yohan Hmaiti -> yohanhmaiti@knights.ucf.edu 
 
 Joseph LaViola (Advisor)-> jjl@cs.ucf.edu 
+
+Related Research Publications:
+
+Effects of Clutter on Egocentric Distance Perception in Virtual Reality (2023):   
+https://arxiv.org/pdf/2304.08604.pdf  
+
+Effects of field of view on egocentric distance perception in virtual reality (2022):   
+https://dl.acm.org/doi/fullHtml/10.1145/3491102.3517548
