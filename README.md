@@ -14,7 +14,7 @@ Yohan Hmaiti -> yohanhmaiti@knights.ucf.edu
 
 Joseph LaViola (Advisor)-> jjl@cs.ucf.edu 
 
-Related Research Publications:
+___Related Research Publications___:
 
 Effects of Clutter on Egocentric Distance Perception in Virtual Reality (2023):   
 https://arxiv.org/pdf/2304.08604.pdf  
