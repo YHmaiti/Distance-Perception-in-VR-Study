@@ -53,14 +53,12 @@ public class Streamer : MonoBehaviour
         //  + " CLUTTER:" + (GameObject.Find("ArrowWrapper").GetComponent<ArrowPointer>().currentClutterIndex + 1));
         Debug.Log("Sending Image " + "trial:" + (GameObject.Find("ArrowWrapper").GetComponent<ArrowPointer>().currentTrial + 1)
         + " Target Index:" + (GameObject.Find("ArrowWrapper").GetComponent<ArrowPointer>().currentTargetIndex)
-        + " CLUTTER Index:" + (GameObject.Find("ArrowWrapper").GetComponent<ArrowPointer>().currentClutterIndex + 1)
-        + " Rest Frame used:" + (GameObject.Find("ArrowWrapper").GetComponent<ArrowPointer>().currentRFIndex));
+        + " CLUTTER Index:" + (GameObject.Find("ArrowWrapper").GetComponent<ArrowPointer>().currentClutterIndex + 1));
         byte[] bytes = gameObject.GetComponent<CameraCapture>().Capture();
         TestMessage msg = new TestMessage(msgId, Convert.ToBase64String(bytes),
            "trial:" + (GameObject.Find("ArrowWrapper").GetComponent<ArrowPointer>().currentTrial + 1)
         + " Target Index:" + (GameObject.Find("ArrowWrapper").GetComponent<ArrowPointer>().currentTargetIndex)
-        + " CLUTTER Index:" + (GameObject.Find("ArrowWrapper").GetComponent<ArrowPointer>().currentClutterIndex + 1)
-        + " Rest Frame used:" + (GameObject.Find("ArrowWrapper").GetComponent<ArrowPointer>().currentRFIndex));
+        + " CLUTTER Index:" + (GameObject.Find("ArrowWrapper").GetComponent<ArrowPointer>().currentClutterIndex + 1));
         msgId += 1;
         SendJson(msg);
     }
