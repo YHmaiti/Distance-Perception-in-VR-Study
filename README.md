@@ -6,9 +6,7 @@
 3. https://assetstore.unity.com/packages/3d/props/apartment-kit-124055 
 4. https://assetstore.unity.com/packages/3d/environments/pirates-island-14706 
 
-For any inquiries regarding how to set up the environments(clutter levels, etc...) or how to use the files please contact the following people: 
-
-Sina Masnadi -> sina@knights.ucf.edu
+For any inquiries regarding this work please contact the following people: 
 
 Yohan Hmaiti -> yohanhmaiti@knights.ucf.edu 
 
