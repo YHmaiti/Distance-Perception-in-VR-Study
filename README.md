@@ -16,8 +16,16 @@ Joseph LaViola (Advisor)-> jjl@cs.ucf.edu
 
 ___Related Research Publications___:
 
+An Exploration of The Effects of Head-Centric Rest Frames On Egocentric Distance Judgments in VR 
+https://ieeexplore.ieee.org/abstract/document/10316360  
+
+Visual Perceptual Confidence: Exploring Discrepancies Between Self-reported and Actual Distance Perception In Virtual Reality  
+https://ieeexplore.ieee.org/abstract/document/10670502  
+
 Effects of Clutter on Egocentric Distance Perception in Virtual Reality (2023):   
 https://arxiv.org/pdf/2304.08604.pdf  
 
 Effects of field of view on egocentric distance perception in virtual reality (2022):   
 https://dl.acm.org/doi/fullHtml/10.1145/3491102.3517548
+
+
