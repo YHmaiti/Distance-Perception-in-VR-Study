@@ -8,9 +8,9 @@
 
 For any inquiries regarding this work please contact the following people: 
 
-Yohan Hmaiti -> yohanhmaiti@knights.ucf.edu 
+Yohan Hmaiti -> yohan.hmaiti@ucf.edu 
 
-Joseph LaViola (Advisor)-> jjl@cs.ucf.edu 
+Joseph LaViola (Advisor)-> jlaviola@ucf.edu 
 
 ___Related Research Publications___:
 
